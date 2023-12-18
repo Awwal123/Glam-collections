@@ -92,6 +92,7 @@ footer {
   margin-bottom: 10px;
   font-size: 16px;
   color: hsl(227, 12%, 61%);
+  width: 360px;
 }
 .cont {
  margin-left: 10px;
